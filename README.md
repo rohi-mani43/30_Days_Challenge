@@ -34,7 +34,7 @@ Each file includes:
 | Day | Topics Covered | Status |
 |-----|----------------|--------|
 | 01  | LC-2235 Add Two Integers, LC-1929 Concatenation of Array, LC-283 Move Zeroes | ✅ Done |
-| 02  | - | ⏳ Pending |
+| 02  | LC-217 Contains Duplicate LC-268 Missing Number LC-387 First Unique Character in a String | ✅ Done |
 | 03  | - | ⏳ Pending |
 | 04  | - | ⏳ Pending |
 | 05  | - | ⏳ Pending |
