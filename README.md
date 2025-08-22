@@ -35,7 +35,7 @@ Each file includes:
 |-----|----------------|--------|
 | 01  | LC-2235 Add Two Integers, LC-1929 Concatenation of Array, LC-283 Move Zeroes | ✅ Done |
 | 02  | LC-217 Contains Duplicate LC-268 Missing Number LC-387 First Unique Character in a String | ✅ Done |
-| 03  | - | ⏳ Pending |
+| 03  | Palindrome Number (LC-9) ,Roman to Integer (LC-13) ,Length of Last Word (LC-58)  | ✅ Done |
 | 04  | - | ⏳ Pending |
 | 05  | - | ⏳ Pending |
 | 06  | - | ⏳ Pending |
