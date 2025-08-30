@@ -34,16 +34,16 @@ Each file includes:
 | Day | Topics Covered | Status |
 |-----|----------------|--------|
 | 01  | LC-2235 Add Two Integers, LC-1929 Concatenation of Array, LC-283 Move Zeroes | ✅ Done |
-| 02  | LC-217 Contains Duplicate LC-268 Missing Number LC-387 First Unique Character in a String | ✅ Done |
-| 03  | Palindrome Number (LC-9) ,Roman to Integer (LC-13) ,Length of Last Word (LC-58)  | ✅ Done |
-| 04  | - | ⏳ Pending |
-| 05  | - | ⏳ Pending |
-| 06  | - | ⏳ Pending |
-| 07  | - | ⏳ Pending |
-| 08  | - | ⏳ Pending |
-| 09  | - | ⏳ Pending |
-| 10  | - | ⏳ Pending |
-| 11  | - | ⏳ Pending |
+| 02  | LC-217 Contains Duplicate, LC-268 Missing Number, LC-387 First Unique Character in a String | ✅ Done |
+| 03  | LC-9 Palindrome Number, LC-13 Roman to Integer, LC-58 Length of Last Word | ✅ Done |
+| 04  | LC-136 Single Number, LC-88 Merge Sorted Array, LC-350 Intersection of Two Arrays II | ✅ Done |
+| 05  | LC-14 Longest Common Prefix, LC-202 Happy Number, LC-191 Number of 1 Bits | ✅ Done |
+| 06  | LC-15 3 Sum, LC-128 Longest Consecutive Sequence, LC-75 Sort Colors | ✅ Done |
+| 07  | LC-6 Zigzag Conversion, LC-443 String Compression, LC-179 Largest Number | ✅ Done |
+| 08  | LC-496 Next Greater Element I, LC-206 Reverse Linked List, LC-2 Add Two Numbers | ✅ Done |
+| 09  | LC-232 Implement Queue using Stacks, LC-933 Number of Recent Calls, LC-622 Design Circular Queue | ✅ Done |
+| 10  | LC-187 Repeated DNA Sequences, LC-680 Valid Palindrome II | ✅ Done |
+| 11  | LC-303 Range Sum Query - Immutable, LC-724 Find Pivot Index, LC-1480 Running Sum of 1d Array | ✅ Done |
 | 12  | - | ⏳ Pending |
 | 13  | - | ⏳ Pending |
 | 14  | - | ⏳ Pending |
