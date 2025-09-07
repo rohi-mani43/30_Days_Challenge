@@ -15,17 +15,23 @@ We aim to **build the habit of daily coding**—one problem at a time, one day a
 
 ---
 
-## 🔥 How It Works  
-Each day, we:  
-- Post **2–3 handpicked coding questions** on Instagram  
-- Solve and upload them here with **explanations**  
-- Encourage the community to participate and **stay consistent**  
+## 🚀 Why This Challenge?  
 
-Each file includes:  
-- ✅ Problem Statement  
-- 💡 Approach/Logic  
-- 🧑‍💻 Clean Code Solution  
-- 📘 Optional Notes or Edge Cases  
+Coding isn’t just about solving problems—it’s about building **discipline, confidence, and clarity in thinking**.  
+This challenge is designed to keep us on track, one problem at a time.  
+
+### 🌟 What You’ll Gain  
+- 💡 **Stronger Problem-Solving** – Sharpen logic and analytical skills  
+- 🧩 **Master DSA Concepts** – Arrays, Strings, Linked Lists, Graphs & more  
+- 🏆 **Interview Readiness** – Tackle LeetCode-style questions with confidence  
+- 🔄 **Consistency Over Intensity** – Small daily wins compound into mastery  
+- 🤝 **Community Motivation** – Stay accountable and grow together  
+
+### 🔥 Progress Tracking (Gamified)  
+- 📅 **Daily Streaks:** Keep the chain unbroken → 30 days, 30 wins  
+
+
+> “It’s not about doing a lot in a day—it’s about showing up every day.”  
 
 ---
 
@@ -42,16 +48,16 @@ Each file includes:
 | 07  | LC-6 Zigzag Conversion, LC-443 String Compression, LC-179 Largest Number | ✅ Done |
 | 08  | LC-496 Next Greater Element I, LC-206 Reverse Linked List, LC-2 Add Two Numbers | ✅ Done |
 | 09  | LC-232 Implement Queue using Stacks, LC-933 Number of Recent Calls, LC-622 Design Circular Queue | ✅ Done |
-| 10  | LC-187 Repeated DNA Sequences, LC-680 Valid Palindrome II | ✅ Done |
+| 10  | LC-187 Repeated DNA Sequences, LC-408 Valid Word Abbreviation, LC-680 Valid Palindrome II | ✅ Done |
 | 11  | LC-303 Range Sum Query - Immutable, LC-724 Find Pivot Index, LC-1480 Running Sum of 1d Array | ✅ Done |
-| 12  | - | ⏳ Pending |
-| 13  | - | ⏳ Pending |
-| 14  | - | ⏳ Pending |
-| 15  | - | ⏳ Pending |
-| 16  | - | ⏳ Pending |
-| 17  | - | ⏳ Pending |
-| 18  | - | ⏳ Pending |
-| 19  | - | ⏳ Pending |
+| 12  | LC-367 Valid Perfect Square, LC-278 First Bad Version, LC-852 Peak Index in a Mountain Array | ✅ Done |
+| 13  | LC-1365 How Many Numbers Are Smaller Than the Current Number, LC-561 Array Partition, LC-1773 Count Items Matching a Rule | ✅ Done |
+| 14  | LC-410 Split Array Largest Sum, LC-1011 Capacity To Ship Packages Within D Days, LC-441 Arranging Coins | ✅ Done |
+| 15  | LC-856 Score of Parentheses, LC-1047 Remove All Adjacent Duplicates in String | ✅ Done |
+| 16  | LC-860 Lemonade Change, LC-134 Gas Station, LC-406 Queue Reconstruction by Height | ✅ Done |
+| 17  | LC-61 Rotate List, LC-24 Swap Nodes in Pairs, LC-138 Copy List with Random Pointer | ✅ Done |
+| 18  | LC-703 Kth Largest Element in a Stream, LC-973 K Closest Points to Origin, LC-295 Find Median from Data Stream | ✅ Done |
+| 19  | LC-350 Intersection of Two Arrays II, LC-26 Remove Duplicates from Sorted Array, LC-88 Merge Sorted Array | ✅ Done |
 | 20  | - | ⏳ Pending |
 | 21  | - | ⏳ Pending |
 | 22  | - | ⏳ Pending |
@@ -71,7 +77,20 @@ Each file includes:
 
 ---
 
-## 👨‍💻 Author  
+## 👨‍💻 About the Author  
+
 **Rohith Manikanta Peruri**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohith-manikanta-peruri-a3323b2b8/)  
+🎓 B.Tech CSE - AI @ PBR Visvodaya Institute of Science and Technology (2022–2026)  
+💡 Passionate about coding, problem-solving, and building impactful projects.  
+  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/rohith-manikanta-peruri-a3323b2b8/)  
 📧 [rohithmanikantaperuri@gmail.com](mailto:rohithmanikantaperuri@gmail.com)  
+
+---
+
+## ✨ Motivation  
+
+> “Consistency beats intensity. Small steps daily lead to giant leaps over time.”  
+>  
+> Stay curious. Stay consistent. Keep digging deeper 🚀  
