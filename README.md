@@ -58,14 +58,14 @@ This challenge is designed to keep us on track, one problem at a time.
 | 17  | LC-61 Rotate List, LC-24 Swap Nodes in Pairs, LC-138 Copy List with Random Pointer | ✅ Done |
 | 18  | LC-703 Kth Largest Element in a Stream, LC-973 K Closest Points to Origin, LC-295 Find Median from Data Stream | ✅ Done |
 | 19  | LC-350 Intersection of Two Arrays II, LC-26 Remove Duplicates from Sorted Array, LC-88 Merge Sorted Array | ✅ Done |
-| 20  | - | ⏳ Pending |
-| 21  | - | ⏳ Pending |
-| 22  | - | ⏳ Pending |
-| 23  | - | ⏳ Pending |
-| 24  | - | ⏳ Pending |
-| 25  | - | ⏳ Pending |
-| 26  | - | ⏳ Pending |
-| 27  | - | ⏳ Pending |
+| 20  | LC-933 Number of Recent Calls, LC-225 Implement Stack using Queues, LC-707 Design Linked List | ✅ Done |
+| 21  | LC-90 Subsets II, LC-40 Combination Sum II, LC-47 Permutations II | ✅ Done |
+| 22  | LC-94 Binary Tree Inorder Traversal, LC-144 Binary Tree Preorder Traversal, LC-145 Binary Tree Postorder Traversal | ✅ Done |
+| 23  | LC-102 Binary Tree Level Order Traversal, LC-104 Maximum Depth of Binary Tree, LC-111 Minimum Depth of Binary Tree | ✅ Done |
+| 24  | LC-543 Diameter of Binary Tree, LC-101 Symmetric Tree, LC-100 Same Tree | ✅ Done |
+| 25  | LC-404 Sum of Left Leaves, LC-938 Range Sum of BST, LC-700 Search in Binary Search Tree | ✅ Done |
+| 26  | LC-463 Island Perimeter, LC-695 Max Area of Island, LC-841 Keys and Rooms | ✅ Done |
+| 27  | LC-785 Is Graph Bipartite?, LC-261 Graph Valid Tree, LC-323 Number of Connected Components in an Undirected Graph | ✅ Done |
 | 28  | - | ⏳ Pending |
 | 29  | - | ⏳ Pending |
 | 30  | - | ⏳ Pending |  
