@@ -66,9 +66,10 @@ This challenge is designed to keep us on track, one problem at a time.
 | 25  | LC-404 Sum of Left Leaves, LC-938 Range Sum of BST, LC-700 Search in Binary Search Tree | ✅ Done |
 | 26  | LC-463 Island Perimeter, LC-695 Max Area of Island, LC-841 Keys and Rooms | ✅ Done |
 | 27  | LC-785 Is Graph Bipartite?, LC-261 Graph Valid Tree, LC-323 Number of Connected Components in an Undirected Graph | ✅ Done |
-| 28  | - | ⏳ Pending |
-| 29  | - | ⏳ Pending |
-| 30  | - | ⏳ Pending |  
+| 28  | LC-139 Word Break, LC-494 Target Sum, LC-322 Coin Change | ✅ Done |
+| 29  | LC-62 Unique Paths, LC-329 Longest Increasing Path in a Matrix, LC-64 Minimum Path Sum | ✅ Done |
+| 30  | LC-63 Unique Paths II, LC-120 Triangle, LC-787 Cheapest Flights Within K Stops | ✅ Done |
+
 
 ---
 
